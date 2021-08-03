@@ -10,22 +10,22 @@
 ## instruments :construction:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivingTribunal18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
-### Frontend
+##### Frontend
 - JS / jQuery
 - React <code><img alt="React" width="40px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /></code>
 - HTML <code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code> / CSS <code><img alt="CSS" width="40px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
 - SCSS <code><img alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code> / Gulp
 - Bootstrap / Tailwind
 
-### Backend
+##### Backend
 - PHP 
 - RedBean
 
-### Database
+##### Database
 - MySQL 
 - OpenServer + XAMPP 
 
-### Web-design
+##### Web-design
 - Figma <code><img alt="Figma" width="40px" height="40px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /></code>
 
 
