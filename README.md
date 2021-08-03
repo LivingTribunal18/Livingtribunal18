@@ -11,11 +11,15 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivingTribunal18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 ##### Frontend
-- JS ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png) / jQuery <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="100px" height="100px" />
-- React
-- HTML <code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code> / CSS <code><img alt="CSS" width="40px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
-- SCSS <code><img alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code> / Gulp
-- Bootstrap / Tailwind
+- JS   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50px" height="50px" /> / jQuery   <img src="https://www.jsexpert.net/wp-content/uploads/2016/12/jquery.png" height="50px" width="150px" />
+
+- React   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="50px" height="50px" />
+
+- HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="50px" height="50px" /> / CSS  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" width="50px" height="50px" /> 
+
+- SCSS <img width="100px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" /> / Gulp
+
+- Bootstrap <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" height="50px" width="50px" /> / Tailwind  <img src="https://hsto.org/getpro/habr/upload_files/347/9c7/408/3479c7408b480f8e2a02bfb118faad3d.png" height="50px" width="100px" />
 
 ##### Backend
 - PHP 
