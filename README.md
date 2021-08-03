@@ -2,7 +2,7 @@
 ## Here is something about my work
 
 -->
---> 🔭 I’m currently working on Innet Corp as a Frontend Developer
+🔭 I’m currently working on Innet Corp as a Frontend Developer
 
 --> 🌱 Currently learning React and Web-design
 
