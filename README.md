@@ -33,6 +33,6 @@
 --> :round_pushpin: You can write me in  :ru:  ,  :gb:  or  even in  :de:
 
 
-## random fact
---> ⚡ love cats and nature :deciduous_tree: <=> would like to work on ecological project :evergreen_tree:
+## random facts
+--> ⚡ love cats and nature <=> would like to work on ecological project :evergreen_tree: :deciduous_tree:
 
