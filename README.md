@@ -17,7 +17,7 @@
 - Figma
 
 
-## os :computer:
+## OS :computer:
 - Windows
 - Linux
 
