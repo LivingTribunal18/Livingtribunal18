@@ -10,11 +10,10 @@
 ## instruments :construction:
 
 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivingTribunal18&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivingTribunal18&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=000)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivingTribunal18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- JS  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw1l9Mfy7CWGz7Kg100qCTQb&ust=1628106940660000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDP-5DRlfICFQAAAAAdAAAAABAI" />  / jQuery <img src="https://code.jquery.com/" />
+
+- JS / jQuery
 - PHP / RedBean
 - MySQL / OpenServer + XAMPP 
 - HTML / CSS
