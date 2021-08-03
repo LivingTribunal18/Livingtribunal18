@@ -24,10 +24,10 @@
 
 ##### Database
 <img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" height="50px" />
-<img src="https://ospanel.io/files/mainlogo.png" height="50px" width="150px" /><img src="https://web-profi.by/wp-content/uploads/xampp_logo1.jpg" height="50px" />
+<img src="https://ospanel.io/files/mainlogo.png" height="50px" width="200px" /><img src="https://web-profi.by/wp-content/uploads/xampp_logo1.jpg" height="50px" />
 
 ##### Web-design
-<img alt="Figma" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" />
+<img alt="Figma" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" />
 
 
 ## OS :computer:
