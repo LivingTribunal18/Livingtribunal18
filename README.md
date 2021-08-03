@@ -2,9 +2,9 @@
 
 ## Here is something about my work
 
--->🔭 I’m working on Innet Corp as a Frontend Developer
+>🔭 I’m working on **Innet Corp** as a Frontend Developer
 
---> 🌱 Currently learning React and Web-design
+> 🌱 Currently learning **React** and **Web-design**
 
 
 ## instruments :construction:
