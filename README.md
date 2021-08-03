@@ -17,7 +17,7 @@
 <img src="https://web-creator.ru/uploads/Page/43/php.svg" height="50px" /> <img src="https://redbeanphp.com/img/redbeanphp_logo.png" height="50px" />
 
 ##### Database
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/OpenServer_logo.svg/440px-OpenServer_logo.svg.png" height="50px" /> <img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" height="50px" /> 
+<img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" height="50px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/OpenServer_logo.svg/440px-OpenServer_logo.svg.png" height="30px" /> 
 
 ##### Web-design
 <img alt="Figma" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" /> <img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
