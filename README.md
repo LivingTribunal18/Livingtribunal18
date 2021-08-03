@@ -30,9 +30,9 @@
 ## contact
 --> 📫 How to reach me: write me on karinebondarenko03@gmail.com
 
---> :round_pushpin: You can write me in  :ru:  or  :gb:  or  even in  :de:
+--> :round_pushpin: You can write me in  :ru:  ,  :gb:  or  even in  :de:
 
 
 ## random fact
---> ⚡ love cats and nature <=> would like to work on ecological project :evergreen_tree:
+--> ⚡ love cats and nature :deciduous_tree: <=> would like to work on ecological project :evergreen_tree:
 
