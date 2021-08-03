@@ -17,14 +17,14 @@
 <img src="https://web-creator.ru/uploads/Page/43/php.svg" height="50px" /> <img src="https://redbeanphp.com/img/redbeanphp_logo.png" height="50px" />
 
 ##### Database
-<img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" height="50px" /><img src="https://web-profi.by/wp-content/uploads/xampp_logo1.jpg" height="50px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/OpenServer_logo.svg/440px-OpenServer_logo.svg.png" height="50px" />
+<img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" height="50px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/OpenServer_logo.svg/440px-OpenServer_logo.svg.png" height="50px" />
 
 ##### Web-design
 <img alt="Figma" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" /> <img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
 
 
 ##### Tools
-<img alt="vscode" height="50px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" /> <img alt="blick" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Blisk-logo-transparent.png" />  <img alt="github" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />  <img alt="codepen" height="50px" src="https://image.flaticon.com/icons/png/512/2111/2111501.png" />
+<img alt="vscode" height="50px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" /> <img alt="blick" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Blisk-logo-transparent.png" />  <img alt="github" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />  <img alt="codepen" height="40px" src="https://image.flaticon.com/icons/png/512/2111/2111501.png" />
 
 ## OS :computer:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/1920px-Windows_logo_and_wordmark_-_2021.svg.png" height="40px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/231px-Logo-ubuntu_cof-orange-hex.svg.png" height="50px" />
