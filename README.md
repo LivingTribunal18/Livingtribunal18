@@ -7,9 +7,17 @@
 --> 🌱 Currently learning React and Web-design
 
 
-## about instruments 
---> :construction: JS/jQuery, PHP/RedBean + MySQL, HTML/CSS - SCSS/Gulp + Bootstrap/Tailwind, Figma
+## instruments 
+--> :construction: JS/jQuery 
+- PHP/RedBean
+- MySQL/OpenServer + XAMPP 
+- HTML/CSS - SCSS/Gulp
+- Bootstrap/Tailwind
+- Figma
 
+## os
+- Windows
+- Linux
 
 ## contact
 --> 📫 How to reach me: write me on karinebondarenko03@gmail.com
