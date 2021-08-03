@@ -17,7 +17,7 @@
 <img src="https://web-creator.ru/uploads/Page/43/php.svg" height="50px" /> <img src="https://redbeanphp.com/img/redbeanphp_logo.png" height="50px" />
 
 ##### Database
-<img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" height="50px" /><img src="https://web-profi.by/wp-content/uploads/xampp_logo1.jpg" height="50px" /> <img src="https://thisis-blog.ru/wp-content/uploads/2016/02/openserver-1.png" height="40px" />
+<img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" height="50px" /><img src="https://web-profi.by/wp-content/uploads/xampp_logo1.jpg" height="50px" /> <img src="https://thisis-blog.ru/wp-content/uploads/2016/02/openserver-1.png" height="50px" width="120px" />
 
 ##### Web-design
 <img alt="Figma" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" />
