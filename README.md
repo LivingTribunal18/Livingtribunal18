@@ -24,15 +24,15 @@
 
 ##### Database
 <img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" height="50px" />
-<img src="https://ospanel.io/files/mainlogo.png" height="50px" width="200px" /><img src="https://web-profi.by/wp-content/uploads/xampp_logo1.jpg" height="50px" />
+<img src="https://web-profi.by/wp-content/uploads/xampp_logo1.jpg" height="50px" /> <img src="https://ospanel.io/files/mainlogo.png" height="50px" width="300px" />
 
 ##### Web-design
 <img alt="Figma" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" />
 
 
 ## OS :computer:
-- Windows
-- Linux
+- <img src="https://www.ixbt.com/img/n1/news/2021/6/1/MicrosoftTeams-image_large_large.jpg" height="50px" /> 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/231px-Logo-ubuntu_cof-orange-hex.svg.png" height="50px" />
 
 
 ## contact
