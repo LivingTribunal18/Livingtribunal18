@@ -20,12 +20,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" height="50px" /><img src="https://web-profi.by/wp-content/uploads/xampp_logo1.jpg" height="50px" /> <img src="https://ospanel.io/files/mainlogo.png" height="50px" width="300px" />
 
 ##### Web-design
-<img alt="Figma" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" />
+<img alt="Figma" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" />
 
 
 ## OS :computer:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/1920px-Windows_logo_and_wordmark_-_2021.svg.png" height="50px" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/231px-Logo-ubuntu_cof-orange-hex.svg.png" height="50px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/1920px-Windows_logo_and_wordmark_-_2021.svg.png" height="50px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/231px-Logo-ubuntu_cof-orange-hex.svg.png" height="50px" />
 
 
 ## contact
