@@ -23,6 +23,9 @@
 <img alt="Figma" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" />
 
 
+##### Tools
+<img alt="vscode" height="50px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" /> <img alt="blick" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Blisk-logo-transparent.png" />
+
 ## OS :computer:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/1920px-Windows_logo_and_wordmark_-_2021.svg.png" height="40px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/231px-Logo-ubuntu_cof-orange-hex.svg.png" height="50px" />
 
