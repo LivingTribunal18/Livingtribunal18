@@ -23,8 +23,8 @@
 <img src="https://web-creator.ru/uploads/Page/43/php.svg" height="50px" /> <img src="https://redbeanphp.com/img/redbeanphp_logo.png" height="50px" />
 
 ##### Database
-- MySQL 
-- OpenServer + XAMPP 
+<img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" height="50px" />
+<img src="https://ospanel.io/files/mainlogo.png" height="50px" /> <img src="https://web-profi.by/wp-content/uploads/xampp_logo1.jpg" height="50px" />
 
 ##### Web-design
 <img alt="Figma" width="40px" height="40px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
