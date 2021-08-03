@@ -20,8 +20,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="50px" /> <img src="https://miro.medium.com/max/632/1*5QD8DKhOjRe-gcYjozlLNQ.png" width="50px" />
 
 ##### Backend
-PHP <img src="https://web-creator.ru/uploads/Page/43/php.svg" height="50px" />
-- RedBean
+<img src="https://web-creator.ru/uploads/Page/43/php.svg" height="50px" /> <img src="https://redbeanphp.com/img/redbeanphp_logo.png" height="50px" />
 
 ##### Database
 - MySQL 
