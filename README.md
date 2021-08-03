@@ -11,15 +11,13 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivingTribunal18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 ##### Frontend
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50px" height="50px" /> <img src="https://www.jsexpert.net/wp-content/uploads/2016/12/jquery.png" height="50px" width="150px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50px" height="50px" />     <img src="https://www.jsexpert.net/wp-content/uploads/2016/12/jquery.png" height="50px" width="150px" />     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="100px" height="50px" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="70px" height="50px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="50px" height="50px" />     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" width="50px" height="50px" /> 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="50px" height="50px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" width="50px" height="50px" /> 
+<img width="100px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />     <img src="https://stepansuvorov.com/blog/wp-content/uploads/2016/05/gulp-2x.png" height="50px" />
 
-<img width="100px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" /> <img src="https://stepansuvorov.com/blog/wp-content/uploads/2016/05/gulp-2x.png" height="50px" />
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" height="50px" width="50px" /> <img src="https://hsto.org/getpro/habr/upload_files/347/9c7/408/3479c7408b480f8e2a02bfb118faad3d.png" height="50px" width="100px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" height="50px" width="50px" />     <img src="https://hsto.org/getpro/habr/upload_files/347/9c7/408/3479c7408b480f8e2a02bfb118faad3d.png" height="50px" width="100px" />
 
 ##### Backend
 - PHP 
