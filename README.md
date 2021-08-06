@@ -25,7 +25,7 @@
  -->
 
 ## contact
---> 📫 How to reach me: write me on karinebondarenko03@gmail.com
+--> 📫 How to reach me: write me on karinebondarenko03@gmail.com or on t.me/green_wild_forest
 
 --> :round_pushpin: You can write me in  :ru:  ,  :gb:  or  even in  :de:
 
