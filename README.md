@@ -1,6 +1,6 @@
 # Hi there xD
 
-## Here is something about my work :paperclip:
+## Here is something about my work :triangular_ruler:
 
 >🔭 I’m working on **Innet Corp** as a Frontend Developer
 
