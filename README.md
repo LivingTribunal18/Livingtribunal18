@@ -31,5 +31,5 @@
 
 
 ## random facts
---> ⚡ love cats and nature <=> would like to work on ecological project :evergreen_tree: :deciduous_tree:
+> ⚡ love cats and nature <=> would like to work on ecological project :evergreen_tree: :deciduous_tree:
 
