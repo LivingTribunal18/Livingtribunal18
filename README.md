@@ -2,7 +2,7 @@
 
 ## Here is something about my work :triangular_ruler:
 
->🔭 I’m working on **Innet Corp** as a Frontend Developer
+>🔭 I’m working on **CLick** as QA and freelancing as Frontend Developer
 
 > 🌱 Currently learning **React** and **Web-design**
 
