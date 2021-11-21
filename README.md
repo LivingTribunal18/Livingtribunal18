@@ -19,7 +19,7 @@
 
 
 #### Tools
-<img alt="vscode" height="40px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" /> <img alt="blick" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Blisk-logo-transparent.png" />  <img alt="github" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />  <img alt="codepen" height="40px" src="https://image.flaticon.com/icons/png/512/2111/2111501.png" />  
+<img alt="vs" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1024px-Visual_Studio_Icon_2019.svg.png" /> <img alt="vscode" height="40px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" /> <img alt="webstorm" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" /> <img alt="blick" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Blisk-logo-transparent.png" />  <img alt="github" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />  <img alt="codepen" height="40px" src="https://image.flaticon.com/icons/png/512/2111/2111501.png" />  
 
 <!-- ## OS :computer:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/1920px-Windows_logo_and_wordmark_-_2021.svg.png" height="30px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/231px-Logo-ubuntu_cof-orange-hex.svg.png" height="40px" />
